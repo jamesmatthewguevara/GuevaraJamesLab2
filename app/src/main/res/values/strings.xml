@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuevaraJamesLab2</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="national_museum">National Museum</string>
+    <string name="location_padre_burgos_ave_ermita_manila_luzon_2004_philippines">Location: Padre Burgos Ave Ermita, Manila, Luzon 2004 Philippines</string>
+    <string name="distance_from_ust_3_6_km_from_university_of_santo_tomas">Distance from UST: 3.6 km from University of Santo Tomas</string>
+    <string name="relative_layout">Relative Layout</string>
+</resources>
